@@ -98,7 +98,7 @@ git config commit.template .gitmessage
 
 1. Replace placeholders (`your-username`, `RoboProject`) with your actual details
 2. Add real media files to `docs/` directory:
-   - `demo.gif` - Robot in action
+   - `demo.gif` - Robot on action
    - `wiring_diagram.png` - Hardware connections
 3. Customize the software architecture diagram
 4. Update `requirements.txt` with your Python dependencies
